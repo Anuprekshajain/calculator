@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">calculator</string>
     <string name="result">result</string>
+    <string name="difference">difference</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="product">product</string>
+    <string name="quotient">quotient</string>
+    <string name="Result">result</string>
+    <string name="sum">sum</string>
 </resources>

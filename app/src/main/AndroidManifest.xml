@@ -15,13 +15,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity2">
-        <intent-filter>
-            <action android:name="com.gamecodeschool.calculator.activity2" />
-
-            <category android:name="android.intent.category.DEFAULT" />
-        </intent-filter>
-        </activity>
     </application>
 
 </manifest>
